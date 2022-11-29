@@ -1,0 +1,51 @@
+body{
+  background-color: #FEFCF3;
+
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+  width: 550px;
+  border-radius: 10px;
+}
+p{
+  font-family: Fraunces;
+  font-size: 14px;
+  line-height: 1.5;
+}
+img{
+  height:400px;
+  width:250px;
+
+}
+table{
+  border-radius: 10px;
+  background-color: white;
+}
+h4{
+  font-family: Fraunces;
+}
+.price{
+  color: #285430;
+  display: inline;
+  margin-right: 40px;
+}
+button{
+  width: 250px;
+  height:50px;
+  border-radius: 10px;
+  background-color: #285430;
+  color: white;
+  margin-top: 5px;
+}
+button:hover{
+  background-color: #0E5E6F;
+}
+svg{
+  margin-right: 10px;
+}
+
+.second-column{
+  padding: 10px;
+}
